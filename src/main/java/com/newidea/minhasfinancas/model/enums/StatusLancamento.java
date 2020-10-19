@@ -1,0 +1,6 @@
+package com.newidea.minhasfinancas.model.enums;
+
+public enum StatusLancamento {
+
+    PENDENTE, CANCELADO, EFETIVADO
+}
